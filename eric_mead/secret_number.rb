@@ -30,6 +30,12 @@ puts "======================================================"
     user_guess = get_input.to_i
     num_guesses += 0
 
+
+## use elseif in this chunk
+## if one try is left.. put singular
+## 
+
+
 unless user_guess == secret_number
   message = if user_guess > secret_number
     puts "======================================================"
