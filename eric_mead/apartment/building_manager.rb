@@ -5,7 +5,9 @@
 #
 # Below this line are three `require_relative` statements, which take the code
 # from those files and make them accessible to this file. Your job is to read
-# this file, and fix all of the errors that occur. You will need to populate
+# this file, and fix all of the errors that occur. 
+
+#You will need to populate
 # the contents of the files inside the lib/ folder.
 #
 # Start by running this file with `ruby building_manager.rb` inside of your
